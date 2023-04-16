@@ -44,3 +44,4 @@
 ### 📈 My Stats : 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rayyanirr&theme=dark&hide_border=true&border_radius=5.4)](https://github.com/rayyanirr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyanirr&show_icons=true&theme=radical)
