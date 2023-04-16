@@ -22,7 +22,7 @@
 
 🌱 I'm currently learning **Devops, artificial intelligence, C#, Game Developer**
 
-🌎 Website ⚠️In construction⚠️
+🌎 Website 🚧In construction🚧
 
 <div align="left">
     <h3> 🔨 Languages and Tools: </h3>
@@ -38,3 +38,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 📈 My Stats : 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rayyanirr&theme=dark&hide_border=true&border_radius=5.4)](https://git.io/streak-stats)
