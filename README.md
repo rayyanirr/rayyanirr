@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="200">
     <h1 align="center">Hi 😃  I'm full stack developer</h1>
     <h3 align="center"> I am passionate about software development, I love giving optimal solutions, which generate peace of mind. I would like to be able to help everyone with the universal code 1 and 0 😁</h3>
 </div>
@@ -46,3 +46,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rayyanirr&theme=dark&hide_border=true&border_radius=5.4)](https://github.com/rayyanirr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyanirr&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanirr&hide_progress=false&layout=compact)](https://github.com/rayyanirr)
+
+---
+
+### NUNCA PARES DE APRENDER !
