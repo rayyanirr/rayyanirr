@@ -14,7 +14,7 @@
 
 ### 😃 About me :
 
-📚 I am currently a student at [https://platzi.com/p/rayyanirrosales/](https://platzi.com/p/rayyanirrosales/) 
+📚 I am currently a student at [Platzi](https://platzi.com/p/rayyanirrosales/) 
 
 ❓ Ask me about ** PHP, Laravel, Javascript, Node, electron.js, react**
 
