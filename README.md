@@ -10,6 +10,8 @@
     </a>
 </div>
 
+---
+
 ### 😃 About me :
 
 📚 I am currently a student at [https://platzi.com/p/rayyanirrosales/](https://platzi.com/p/rayyanirrosales/) 
@@ -19,3 +21,5 @@
 📧  how to reach me **rayyanir.1990@gmail.com**
 
 🌱 I'm currently learning **Devops, artificial intelligence, C#, Game Developer**
+
+🌎 Website ⚠️In construction⚠️
