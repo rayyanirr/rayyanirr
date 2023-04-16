@@ -9,3 +9,13 @@
         <img src="https://img.shields.io/twitter/follow/rayyanirr?style=social" alt="twiter-badge">
     </a>
 </div>
+
+### 😃 About me :
+
+📚 I am currently a student at [https://platzi.com/p/rayyanirrosales/](https://platzi.com/p/rayyanirrosales/) 
+
+❓ Ask me about ** PHP, Laravel, Javascript, Node, electron.js, react**
+
+📧  how to reach me **rayyanir.1990@gmail.com**
+
+🌱 I'm currently learning **Devops, artificial intelligence, C#, Game Developer**
