@@ -16,7 +16,7 @@
 
 📚 I am currently a student at [Platzi](https://platzi.com/p/rayyanirrosales/) 
 
-❓ Ask me about ** PHP, Laravel, Javascript, Node, electron.js, react**
+❓ Ask me about **PHP, Laravel, Javascript, Node, electron.js, react**
 
 📧  how to reach me **rayyanir.1990@gmail.com**
 
