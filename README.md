@@ -45,7 +45,7 @@
 ---
 
 ### 🚥 My proyects
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="20" height="20"/> [Todos React](https://rayyanirr.github.io/todo)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="20" height="20"/>  [Todos React](https://rayyanirr.github.io/todo)
 
 
 ### 📈 My Stats : 
