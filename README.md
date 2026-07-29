@@ -1,59 +1,46 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="200">
-    <h1 align="center">Hi 😃  I'm full stack developer</h1>
-    <h3 align="center"> I am passionate about software development, I love giving optimal solutions, which generate peace of mind. I would like to be able to help everyone with the universal code 1 and 0 😁</h3>
-</div>
+# 👨‍💻 Rayyanir Rosales Rubio
+### **Senior Full-Stack & DevOps-Minded Backend Engineer**
 
-<div id="badges" align="center">
-    <a href="https://twitter.com/rayyanirr">
-        <img src="https://img.shields.io/twitter/follow/rayyanirr?style=social" alt="twiter-badge">
-    </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayyanir_Rosales-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rayyanir-rosales)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rayyanirr.github.io-10B981?style=for-the-badge&logo=googlechrome)](https://rayyanirr.github.io/rayyanirr/)
+[![Email](https://img.shields.io/badge/Email-rayyanir.1990@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:rayyanir.1990@gmail.com)
 
 ---
 
-### 😃 About me :
+## 🚀 About Me
 
-📚 I am currently a student at [Platzi](https://platzi.com/p/rayyanirrosales/) 
+Results-driven **Senior Full-Stack & Backend Engineer** with over 8 years of experience architecting, containerizing, and scaling high-performance web applications, RESTful APIs, and cloud infrastructure.
 
-❓ Ask me about **PHP, Laravel, Javascript, Node, electron.js, react**
-
-📧  how to reach me **rayyanir.1990@gmail.com**
-
-🌱 I'm currently learning **Devops, artificial intelligence, C#, Game Developer**
-
-🌎 Website 🚧In construction🚧
-
-<div align="left">
-    <h3> 🔨 Languages and Tools: </h3>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="taildwind" width="40" height="40"/>&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-line-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" alt="sqlserver" width="40" height="40"/>&nbsp;
-</div>
+- ⚙️ **Core Expertise:** PHP 8+, Laravel (Clean Architecture, DDD, TDD), Vue.js, Docker & Microservices.
+- ⚡ **Performance Optimization:** Proven track record refactoring legacy SQL queries, reducing API response times from several minutes to **<1s**.
+- 🏢 **Enterprise Impact:** Architected solutions deployed across **31+ locations** serving **1,000+ employees**.
+- 🛠️ **DevOps & Infrastructure:** Docker containerization, Nginx reverse proxies, Linux server administration, and Microsoft Azure cloud deployments.
 
 ---
 
-### 🚥 My proyects
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="20" height="20"/>  [Todos React](https://rayyanirr.github.io/todo)
+## 🛠️ Tech Stack & Tooling
 
+### **Backend & Architecture**
+`PHP 8.3+` • `Laravel 13` • `Clean Architecture / DDD` • `RESTful APIs (JSON:API Spec)` • `TDD (Pest / PHPUnit)` • `Node.js`
 
-### 📈 My Stats : 
+### **Frontend**
+`Vue.js 3` • `JavaScript (ES6+)` • `TypeScript` • `Tailwind CSS` • `HTML5 / CSS3`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rayyanirr&theme=dark&hide_border=true&border_radius=5.4)](https://github.com/rayyanirr)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyanirr&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanirr&hide_progress=false&layout=compact)](https://github.com/rayyanirr)
+### **Database, DevOps & Cloud**
+`PostgreSQL` • `MySQL` • `SQL Server` • `Redis` • `Docker & Docker Compose` • `Nginx` • `Linux (Ubuntu/Debian)` • `Azure` • `Git / GitHub`
 
 ---
 
-### NUNCA PARES DE APRENDER !
+## 🏆 Featured Repositories
+
+- 🍽️ **[restaurant-core-api](https://github.com/rayyanirr/restaurant-core-api):** Production-ready Laravel 13 REST API built with Clean Architecture, Domain-Driven Design (DDD), Pest TDD, and full Docker stack.
+- 🌐 **[rayyanirr.github.io](https://rayyanirr.github.io/rayyanirr/):** Interactive personal developer portfolio and engineering showcase.
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyanirr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rayyanir's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanirr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
